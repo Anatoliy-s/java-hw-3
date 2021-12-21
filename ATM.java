@@ -5,7 +5,7 @@ class ATM {
         int[] banknotes = new int[]{500, 200, 100, 50, 20, 10, 5, 2, 1};
         int i = 0;
 
-       while (i<banknotes.length-1) {
+       while (i<banknotes.length) {
 
            number = banknotes[i];
 
